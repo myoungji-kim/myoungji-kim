@@ -15,6 +15,6 @@
 
 ![myoungji's GitHub stats](https://github-readme-stats.vercel.app/api?username=myoungji-kim&show_icons=true&theme=material-palenight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myoungji-kim&layout=compact&theme=material-palenight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myoungji-kim&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myoungji)](https://solved.ac/myoungji)
