@@ -1,5 +1,7 @@
 <h2> 🍊Hello! This is MyoungJi Kim. </h2>
 
+<span> 💌 myoung9412@daum.net </span>
+
 <a href="https://www.instagram.com/dding_ji_k/">
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/dding_ji_k/"
