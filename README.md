@@ -1,6 +1,8 @@
-<h2> 🍊Hello! This is MyoungJi Kim. </h2>
+<h2> 🍊Enjoy you day! </h2>
 
-<span> 💌 myoung9412@daum.net </span>
+<span> 💌 Contact : myoung9412@daum.net </span>
+<span> 🔎 UX를 공부하는 부지런한 소통왕 개발자, 김명지입니다. </span>
+<span> 👩‍💻 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
 
 <a href="https://www.instagram.com/dding_ji_k/">
     <img 
