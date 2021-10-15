@@ -1,4 +1,4 @@
-<h2> 🍊Enjoy you day! </h2>
+<h2> 🍊Enjoy your day! </h2>
 
 <span> 💌 Contact : myoung9412@daum.net </span> <br>
 <span> 🔎 UX를 공부하는 부지런한 소통왕 개발자, 김명지입니다. </span> <br>
