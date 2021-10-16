@@ -1,7 +1,7 @@
 <h2> 🍊Enjoy your day! </h2>
 
 <span> 💌 Contact : myoung9412@daum.net </span> <br>
-<span> 🔎 UX를 공부하는 부지런한 소통왕 개발자, 김명지입니다. </span> <br>
+<span> 🔎 UX를 중요시하는 부지런한 소통왕 개발자, 김명지입니다. </span> <br>
 <span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
 
 <a href="https://www.instagram.com/dding_ji_k/">
