@@ -14,6 +14,11 @@
         src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dding_ji"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://www.notion.so/ff89b3affbf543f2b81e603b51dfe6ee">
+    <img 
+        src="http://img.shields.io/badge/-Nootion-222222?style=flat&logo=Notion&link=https://www.notion.so/ff89b3affbf543f2b81e603b51dfe6ee"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 ![myoungji's GitHub stats](https://github-readme-stats.vercel.app/api?username=myoungji-kim&show_icons=true&theme=material-palenight)
 
