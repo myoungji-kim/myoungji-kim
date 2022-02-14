@@ -6,17 +6,17 @@
 
 <a href="https://www.instagram.com/dding_ji_k/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/dding_ji_k/"
+        src="http://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/dding_ji_k/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://velog.io/@dding_ji">
     <img 
-        src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dding_ji"
+        src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dding_ji"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee">
     <img 
-        src="http://img.shields.io/badge/-Nootion-222222?style=flat&logo=Notion&link=https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee"
+        src="http://img.shields.io/badge/-Nootion-2ba640?style=flat&logo=Notion&link=https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
