@@ -16,7 +16,7 @@
 </a>
 <a href="https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee">
     <img 
-        src="http://img.shields.io/badge/-Nootion-2ba640?style=flat&logo=Notion&link=https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee"
+        src="http://img.shields.io/badge/-Notion-2ba640?style=flat&logo=Notion&link=https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
