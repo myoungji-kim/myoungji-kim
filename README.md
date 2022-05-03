@@ -14,7 +14,7 @@
         src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dding_ji"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee">
+<a href="https://legend-salamander-66c.notion.site/Kim-Myoung-Ji-12740c88e9c848708dd69b6c0adc1ef4">
     <img 
         src="http://img.shields.io/badge/-Notion-2ba640?style=flat&logo=Notion&link=https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
