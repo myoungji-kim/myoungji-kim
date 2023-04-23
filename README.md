@@ -10,8 +10,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>-->
 
-![myoungji's GitHub stats](https://github-readme-stats.vercel.app/api?username=myoungji-kim&show_icons=true&theme=material-palenight)
+<!-- |👦 Solved.ac|🥇 Most Used Languages|
+|------|---| -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myoungji-kim&theme=material-palenight)](https://github.com/myoungji-kim) ![myoungji's GitHub stats](https://github-readme-stats.vercel.app/api?username=myoungji-kim&show_icons=true&theme=material-palenight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myoungji-kim&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myoungji)](https://solved.ac/myoungji)
