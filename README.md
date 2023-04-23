@@ -1,19 +1,9 @@
-<h2> 🍊Hi there! </h2>
+<h2> 🐣 주니어 백엔드 개발자 김명지 </h2>
 
-<span> 💌 Contact : myoung9412@daum.net </span> <br>
-<span> 🔎 UX를 중요시하는 부지런한 소통왕 개발자, 김명지입니다. </span> <br>
-<span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyoungji-kim%2Fhit-counter&count_bg=%238F7CFF&title_bg=%23393939&icon=googlekeep.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- 📨 Email : ddingji.kim@gmail.com <br>
+- 📋 Study Blog : https://myoungji-kim.github.io/ <br> <br>
 
-<!--<a href="https://www.instagram.com/dding_ji_k/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/dding_ji_k/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>-->
-<a href="https://velog.io/@dding_ji">
-    <img 
-        src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dding_ji"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <!--<a href="https://legend-salamander-66c.notion.site/Kim-Myoung-Ji-12740c88e9c848708dd69b6c0adc1ef4">
     <img 
         src="http://img.shields.io/badge/-Notion-2ba640?style=flat&logo=Notion&link=https://legend-salamander-66c.notion.site/ff89b3affbf543f2b81e603b51dfe6ee"
